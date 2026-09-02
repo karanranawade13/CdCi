@@ -104,7 +104,7 @@ function App() {
         <section className="hero section">
           <div className="container heroGrid">
             <div className="heroCopy reveal">
-              <p className="eyebrow"><span className="statusDot" /> Open to immediate joining</p>
+              <p className="eyebrow"><span className="statusDot" /> Open to immediate joining *****</p>
               <h1>Cloud. DevOps.<br /><em>Software Engineering.</em></h1>
               <p className="heroText">
                 AWS Cloud and Cloud Support focused engineer with practical experience in

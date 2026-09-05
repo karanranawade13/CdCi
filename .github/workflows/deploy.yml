@@ -1,9 +1,0 @@
-virsion : 2.1
-services:
-  docker build:
-    image: docker:20.10.16
-    privileged: true
-    commands:
-      - docker build -t karan-react-portfolio .
-      ports:
-        - 3000:3000
